@@ -10,6 +10,10 @@ public:
 		{
 			result.push_back(2);
 		}
+		else if (number == 3)
+		{
+			result.push_back(3);
+		}
 
 		return result;
 	}
